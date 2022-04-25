@@ -1,4 +1,4 @@
-# SignalR updating the UI in Asp.Net Core Web Application
+# SignalR - updating the UI in Asp.Net Core Web Application
 Sometimes we have to run time taking jobs in the application like
  <ul>
  <li>Backing up and restoring databases from application UI</li>
